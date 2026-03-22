@@ -53,6 +53,16 @@ T. Singh, P. Choudhary, and S. Singh, ‘Antimicrobial Peptides: Mechanism of Ac
 Bhangu, S. K., Welch, N., Lewis, M., Li, F., Gardner, B., Thissen, H., & Kowalczyk, W. (2025). Machine Learning-Assisted Prediction and Generation of Antimicrobial Peptides. Small Science, 5(6), 2400579. https://doi.org/10.1002/smsc.202400579
 
 
+Important Instructions:-
+
+I have created a pkl file and a predict.py file
+
+Anyone who wants to make a prediction can use this repository by making sure you have everything in same folder
+
+Open your command terminal or powershell in that exact same folder and run 'python predict.py'
+a dialogue 'Enter sequence', appears which will give output 1(AMP) or 0(non-AMP)
+
+
 
 
 
